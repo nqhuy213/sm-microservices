@@ -7,6 +7,6 @@
 [submodule "feed-service"]
 	path = feed-service
 	url = https://github.com/nqhuy213/sm-feed-service.git
-[submodule ".\\media-service\\"]
-	path = .\\media-service\\
+[submodule "media-service"]
+	path = media-service
 	url = https://github.com/nqhuy213/sm-media-service.git
